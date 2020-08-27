@@ -16,8 +16,7 @@ Bo Zhang's paper data
     
 - Spectroscopic binaries from LAMOST-MRS survey (R~7500)
     - Radial velocity and binarity of 3 million MRS spectra
-        - in prep.
-        
+        - [http://paperdata.china-vo.org/bozhang/mrssb/m7snr5_tr_v11_short.fits](http://paperdata.china-vo.org/bozhang/mrssb/m7snr5_tr_v11_short.fits)
 
 - data are mainly stored at the [National Astronomial Data Center (NADC)](https://nadc.china-vo.org/client/)
 
