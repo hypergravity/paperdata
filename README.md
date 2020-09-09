@@ -15,6 +15,8 @@ Bo Zhang's paper data
     - no data
     
 - Spectroscopic binaries from LAMOST-MRS survey (R~7500)
+    - RVM(v10, 3500-15000K, ATLAS)
+        - [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
     - Radial velocity and binarity of 3 million MRS spectra
         - [http://paperdata.china-vo.org/bozhang/mrssb/m7snr5_tr_v11_short.fits](http://paperdata.china-vo.org/bozhang/mrssb/m7snr5_tr_v11_short.fits)
 
