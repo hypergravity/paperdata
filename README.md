@@ -2,7 +2,7 @@
 Bo Zhang's paper data
 
 - **[New!] A self-consistent correction of Radial Velocity Zero-points (RVZP) for the LAMOST MRS**
-    - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/doc/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
+    - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/tutorial/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
     - a catalog of 5 million RV and associated RVZP correction values (will be updated soon!)
 
 - [Deriving the Stellar Labels of LAMOST Spectra with the Stellar LAbel Machine (SLAM)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246....9Z/abstract)
