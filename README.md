@@ -1,7 +1,7 @@
 ## paperdata
 Bo Zhang's paper data
 
-- **[New!] A self-consistent correction of Radial Velocity Zero-points (RVZP) for the LAMOST MRS**
+- **[New!] 3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7**
     - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/tutorial/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
     - RVM for R=1800: [http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump)
     - RVM for R=7500: [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
@@ -16,11 +16,11 @@ Bo Zhang's paper data
         - [http://paperdata.china-vo.org/bozhang/slam/catalog_slam_v10_short.fits](http://paperdata.china-vo.org/bozhang/slam/catalog_slam_v10_short.fits)
     - based on the giant stellar parameters, the absolute magnitude calculated using Carlin+2015 is available
         - [http://paperdata.china-vo.org/bozhang/slam/slam_v10_carlin_absmag.fits](http://paperdata.china-vo.org/bozhang/slam/slam_v10_carlin_absmag.fits)
-        
-- [Exploring the spectral information content in the LAMOST medium-resolution survey (MRS)](https://ui.adsabs.harvard.edu/abs/2020RAA....20...51Z/abstract)
-    - no data
 
-[//]: # "
+
+[//]: #  "
+    - [Exploring the spectral information content in the LAMOST medium-resolution survey (MRS)](https://ui.adsabs.harvard.edu/abs/2020RAA....20...51Z/abstract)
+        - no data
     - Spectroscopic binaries from LAMOST-MRS survey (R~7500)
         - RVM(v10, 660 templates, R=7500, 3500-15000K, ATLAS)
             - [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
