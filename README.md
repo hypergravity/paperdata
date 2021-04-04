@@ -2,10 +2,13 @@
 Bo Zhang's paper data
 
 - **3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7 (submitted to ApJS)**
+    - [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
+    - [Table 5](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvzpc_formatted.fits): associated RVZPs
+    - [Table 6](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvss_formatted.fits): candidate RV standard stars
     - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/tutorial/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
     - RVM for R=1800: [http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump)
     - RVM for R=7500: [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
-    - Catalogs: 3.8 million RVs, associated RVZPs, candidate RV standard stars (will be updated soon!)
+
 
 - [Deriving the Stellar Labels of LAMOST Spectra with the Stellar LAbel Machine (SLAM)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246....9Z/abstract)
     - the SLAM code repository:
