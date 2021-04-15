@@ -1,6 +1,9 @@
 ## paperdata
 Bo Zhang's paper data
 
+- **The spectroscopic binaries from LAMOST medium-resolution spectroscopic (MRS) survey**
+    - A catalog of spectroscopic binaries (coming soon)
+
 - **3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7 (submitted to ApJS)**
     - [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
     - [Table 5](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvzpc_formatted.fits): associated RVZPs
