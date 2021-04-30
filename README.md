@@ -5,9 +5,9 @@ Bo Zhang's paper data
     - A catalog of spectroscopic binaries (coming soon)
 
 - **3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7 (submitted to ApJS)**
-    - [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
-    - [Table 5](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvzpc_formatted.fits): associated RVZPs
-    - [Table 6](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvss_formatted.fits): candidate RV standard stars
+    - [2021-04-05] [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
+    - [2021-04-05] [Table 5](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvzpc_formatted.fits): associated RVZPs
+    - [2021-04-30] [Table 6](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvss_Nobs8_formatted.fits): candidate RV standard stars
     - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/tutorial/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
     - RVM for R=1800: [http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump)
     - RVM for R=7500: [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
