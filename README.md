@@ -5,6 +5,7 @@ Bo Zhang's paper data
     - A catalog of spectroscopic binaries (coming soon)
 
 - [3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7 (ApJS accepted)](https://ui.adsabs.harvard.edu/abs/2021arXiv210511624Z/abstract)
+    - [2021-07-02] a simplified version of the RVZP code is available in [*laspec.rvzp*](https://github.com/hypergravity/laspec/blob/master/laspec/rvzp.py#L7) module
     - [2021-04-05] [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
     - [2021-04-05] [Table 5](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvzpc_formatted.fits): associated RVZPs
     - [2021-04-30] [Table 6](http://paperdata.china-vo.org/bozhang/rvzp/pub_rvss_Nobs8_formatted.fits): candidate RV standard stars
