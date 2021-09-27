@@ -1,6 +1,8 @@
 ## paperdata
 Bo Zhang's paper data
 
+- **Binarity for 5 million spectra in LAMOST MRS DR8** 
+    - (to be updated)
 - [3.6 Million Self-consistent Radial Velocity from LAMOST MRS DR7](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...14Z/abstract)
     - [A tutorial of how to measure RV from MRS spectra](https://nbviewer.jupyter.org/github/hypergravity/laspec/blob/master/tutorial/20201118_How_to_measure_RV_from_MRS_spectra.ipynb)
     - RVM for R=1800: [http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump)
