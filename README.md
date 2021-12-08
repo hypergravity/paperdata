@@ -1,10 +1,13 @@
 ## paperdata
 Bo Zhang's paper data
 
-- **Binary probabilities for 5 million spectra in LAMOST MRS DR8** 
-    - (to be updated)
+- **The Spectroscopic Binaries from LAMOST Medium-Resolution Survey (MRS)**
+  - [I. Searching for Double-lined Spectroscopic Binaries (SB2s) with Convolutional Neural Network](https://ui.adsabs.harvard.edu/abs/2021arXiv211203818Z/abstract)
+      - Binary probabilities for 5 million spectra in LAMOST MRS DR8 (to be updated)
+  - II. Stellar parameters
+  - III. 
 
-
+---
 - [Self-consistent Radial Velocity from LAMOST MRS DR7](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...14Z/abstract)
     - [2021-07-08] DR8 (5.8 million RVs) is conditionally available via personal request -> [bozhang@nao.cas.cn](mailto:bozhang@nao.cas.cn)
     - [2021-07-02] a simplified version of the RVZP code is available in [*laspec.rvzp*](https://github.com/hypergravity/laspec/blob/master/laspec/rvzp.py#L7) module
@@ -15,6 +18,7 @@ Bo Zhang's paper data
     - RVM for R=1800: [http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/R1800_rvm.dump)
     - RVM for R=7500: [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
 
+---
 - [Deriving the Stellar Labels of LAMOST Spectra with the Stellar LAbel Machine (SLAM)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246....9Z/abstract)
     - the SLAM code repository:
         - [https://github.com/hypergravity/astroslam](https://github.com/hypergravity/astroslam)
