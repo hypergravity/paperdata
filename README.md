@@ -1,11 +1,9 @@
-## paperdata
-Bo Zhang's paper data
+## Bo's paperdata
 
 - **The Spectroscopic Binaries from LAMOST Medium-Resolution Survey (MRS)**
   - [I. Searching for Double-lined Spectroscopic Binaries (SB2s) with Convolutional Neural Network](https://ui.adsabs.harvard.edu/abs/2021arXiv211203818Z/abstract)
       - Binary probabilities for 5 million spectra in LAMOST MRS DR8 (to be updated)
-  - II. Stellar parameters
-  - III. 
+  - II. Atmospheric parameters and masses
 
 ---
 - [Self-consistent Radial Velocity from LAMOST MRS DR7](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...14Z/abstract)
