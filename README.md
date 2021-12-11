@@ -6,7 +6,7 @@
   - II. Atmospheric parameters and masses
 
 ---
-- [Self-consistent Radial Velocity from LAMOST MRS DR7](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...14Z/abstract)
+- [**Self-consistent Radial Velocity from LAMOST MRS DR7**](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...14Z/abstract)
     - [2021-07-08] DR8 (5.8 million RVs) is conditionally available via personal request
     - [2021-07-02] a simplified version of the RVZP code is available in [*laspec.rvzp*](https://github.com/hypergravity/laspec/blob/master/laspec/rvzp.py#L7) module
     - [2021-04-05] [Table 4](http://paperdata.china-vo.org/bozhang/rvzp/pub_rv_formatted.fits): 3.8 million RVs
@@ -17,7 +17,7 @@
     - RVM for R=7500: [http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump](http://paperdata.china-vo.org/bozhang/mrssb/v10_rvm.dump)
 
 ---
-- [Deriving the Stellar Labels of LAMOST Spectra with the Stellar LAbel Machine (SLAM)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246....9Z/abstract)
+- [**Deriving the Stellar Labels of LAMOST Spectra with the Stellar LAbel Machine (SLAM)**](https://ui.adsabs.harvard.edu/abs/2020ApJS..246....9Z/abstract)
     - the SLAM code repository:
         - [https://github.com/hypergravity/astroslam](https://github.com/hypergravity/astroslam)
     - a tutorial of SLAM (100MB, including data)
