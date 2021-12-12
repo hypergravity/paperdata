@@ -2,7 +2,7 @@
 
 - **The Spectroscopic Binaries from LAMOST Medium-Resolution Survey (MRS)**
   - [I. Searching for Double-lined Spectroscopic Binaries (SB2s) with Convolutional Neural Network](https://ui.adsabs.harvard.edu/abs/2021arXiv211203818Z/abstract)
-      - [Binary probabilities for 5 million spectra in LAMOST MRS DR8 (Table 4)](http://paperdata.china-vo.org/bozhang/mrssb/m8pubR3corr.fits.gz)
+      - [2021-12-12] [Binary probabilities for 5 million spectra in LAMOST MRS DR8 (Table 4)](http://paperdata.china-vo.org/bozhang/mrssb/m8pubR3corr.fits.gz)
   - II. Atmospheric parameters and masses
 
 ---
